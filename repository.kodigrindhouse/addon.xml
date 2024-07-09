@@ -5,9 +5,9 @@
     </requires>
 	<extension point="xbmc.addon.repository" name="Grindhouse">
 		<dir>
-			<info compressed="false">https://raw.githubusercontent.com/gigoplast/kodigrindhouse/main/repository.kodigrindhouse/addon.xml</info>
-			<checksum>https://raw.githubusercontent.com/gigoplast/kodigrindhouse/main/repository.kodigrindhouse/addonsmd5.txt</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/gigoplast/kodigrindhouse/main/repository.kodigrindhouse/zips/</datadir>
+			<info compressed="false">https://github.com/gigoplast/kodigrindhouse/raw/main/repository.kodigrindhouse/addon.xml</info>
+			<checksum>https://github.com/gigoplast/kodigrindhouse/raw/main/repository.kodigrindhouse/addons.xml.md5</checksum>
+			<datadir zip="true">https://github.com/gigoplast/kodigrindhouse/raw/main/zips/</datadir>
 		</dir>
 		<dir>
 			<info compressed="false">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml</info>	
